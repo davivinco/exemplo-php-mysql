@@ -142,11 +142,10 @@ if ($result) {
         <?php endforeach; ?>  
     </ul>  
 
-    <p><a href="sobre.php">Saiba mais sobre nós</a></p>  
 </main>  
 
 <footer>  
-    <p>&copy; <?php echo date("Y"); ?> Minha Web App</p>  
+    <p>&copy; <?php echo date("Y"); ?> Suporte SaveinCloud</p>  
 </footer>  
 
 </body>  
